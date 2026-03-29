@@ -32,3 +32,4 @@ int main() {
     printf("Altitude original apos efeito colateral: %d\n", altitude);
 
     return 0;
+}
